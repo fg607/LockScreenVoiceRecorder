@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/fg607/AndroidStudioProjects/MyXposedMod/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/home/fg607/AndroidStudioProjects/MyXposedMod/app/build/intermediates/pre-dexed/debug/internal_impl-23.3.0-0b6026f9f5d2246f81b116d40b571b16a5972a87.jar" />
+    </item>
+    <item
+        jar="/home/fg607/AndroidStudioProjects/MyXposedMod/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/home/fg607/AndroidStudioProjects/MyXposedMod/app/build/intermediates/pre-dexed/debug/classes-24f17cabaf3e926383369250de46e58d5e629e58.jar" />
+    </item>
+    <item
+        jar="/home/fg607/AndroidStudioProjects/MyXposedMod/app/libs/XposedBridgeApi.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="26ab2afa899525424ba85b253d5a3b98350de768">
+        <dex dex="/home/fg607/AndroidStudioProjects/MyXposedMod/app/build/intermediates/pre-dexed/debug/XposedBridgeApi-98be9c2939c0f648f58db7901de315d1fcfe8afb.jar" />
+    </item>
+    <item
+        jar="/home/fg607/AndroidStudioProjects/MyXposedMod/app/libs/XposedBridgeApi.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="26ab2afa899525424ba85b253d5a3b98350de768">
+        <dex dex="/home/fg607/AndroidStudioProjects/MyXposedMod/app/build/intermediates/pre-dexed/debug/XposedBridgeApi-98be9c2939c0f648f58db7901de315d1fcfe8afb.jar" />
+    </item>
+    <item
+        jar="/media/software/Ubuntu/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/home/fg607/AndroidStudioProjects/MyXposedMod/app/build/intermediates/pre-dexed/debug/support-annotations-23.3.0-ec609143a5f7e5c0fafdfdea950c648604e3f8e3.jar" />
+    </item>
+
+</items>
